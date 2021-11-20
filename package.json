@@ -12,5 +12,11 @@
     "package"
   ],
   "author": "Hernán Mercado <hernandmf\u001bg\u001b@@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.26.0"
+  }
 }

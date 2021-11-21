@@ -13,6 +13,10 @@
   ],
   "author": "Hernán Mercado <hernandmf\u001bg\u001b@@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "random-name": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "dependencies": {
     "moment": "^2.29.1"
   },

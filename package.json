@@ -14,7 +14,6 @@
   "author": "Hernán Mercado <hernandmf\u001bg\u001b@@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.15.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
